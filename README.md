@@ -1,6 +1,6 @@
 # Hi, I'm Prodipta Banerjee 👩‍💻  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-<img align='right' src='https://github.com/BanerjeeProdipta/BanerjeeProdipta/blob/master/prodipta.png' width='200'>
+<img align='right' src='https://github.com/BanerjeeProdipta/BanerjeeProdipta/blob/master/prodipta.png' width='30%'>
 
 I'm a ***Software Engineer***. My interests is in ***Web Development***. I love to learn new skills.
 I enjoy working with *React*, *PHP*, *Laravel*.
