@@ -25,7 +25,7 @@ I enjoy working with *React*, *PHP*, *Laravel*.
 <a href="https://www.facebook.com/jprodipta/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=BanerjeeProdipta&&show_icons=true&title_color=cf5975&icon_color=92cce1&text_color=D3D3D3&bg_color=1c1c1c" width="100%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=BanerjeeProdipta&&show_icons=true&title_color=cf5975&icon_color=92cce1&text_color=D3D3D3&bg_color=1c1c1c" width="70%" />
 
 ## Favorite Languages ⭐⭐⭐:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BanerjeeProdipta&show_icons=true&locale=en&title_color=cf5975&layout=compact&bg_color=1c1c1c&text_color=D3D3D3" alt="BanerjeeProdipta" width="70%" /></p>
