@@ -32,10 +32,6 @@ I enjoy working with *React*, *PHP*, *Laravel*.
 ## Github Stats 🔥🔥🔥:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=BanerjeeProdipta&&show_icons=true&title_color=cf5975&icon_color=92cce1&text_color=D3D3D3&bg_color=1c1c1c" width="100%" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BanerjeeProdipta" alt="BanerjeeProdipta" width="100%" height="200"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BanerjeeProdipta&theme=onedark" alt="BanerjeeProdipta" width="70%"/>
 
-
-
-## Github Profile Trophy 🏆🏆🏆:
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BanerjeeProdipta" alt="BanerjeeProdipta" /></a> </p>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=BanerjeeProdipta&row=2&column=3a&theme=onedark" alt="BanerjeeProdipta"  width="70%"/>
