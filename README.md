@@ -5,10 +5,9 @@
 I'm a ***Software Engineer***. My interests is in ***Web Development***. I love to learn new skills.
 I enjoy working with *React*, *PHP*, *Laravel*.
 
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
 
 ## Find me around the web 🌎:
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='20%'/>
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='15%'/>
 
 
 
