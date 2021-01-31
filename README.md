@@ -13,7 +13,7 @@ I enjoy working with *React*, *PHP* & *Laravel*.
 - 📫 Reach me : 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ffffff?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:probanerjee17@gmail.com)
 
-- 💁 Pronouns : She/her
+- 💁 Pronouns : She/Her
 - ✨ Fun fact : I love dogs 🐶 and music 🎶
 
 
