@@ -1,5 +1,5 @@
 # Hi, I'm Prodipta Banerjee 👩‍💻  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-<img align='right' src='https://github.com/BanerjeeProdipta/BanerjeeProdipta/blob/master/prodipta.png' width='30%'>
+<img align='right' src='https://github.com/BanerjeeProdipta/BanerjeeProdipta/blob/master/prodipta.png' width='40%'>
 
 I'm a ***Software Engineer***  from Dhaka, Bangladesh. My interest is in ***Web Development***. I love to learn new skills.
 I enjoy working with *React*, *PHP* & *Laravel*.
@@ -19,13 +19,13 @@ I enjoy working with *React*, *PHP* & *Laravel*.
 
 ### *Follow me around the web:*  🏃 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=BanerjeeProdipta&views&color=92cce1&style=flat-square"/> </p>
 
-
+<p align="left">
 <a href="https://www.linkedin.com/in/banerjeeprodipta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/joyce_prodipta_banerjee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/jprodipta/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
+<img src="https://komarev.com/ghpvc/?username=BanerjeeProdipta&views&color=92cce1&style=flat-square"/> 
+</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BanerjeeProdipta&&show_icons=true&title_color=cf5975&icon_color=92cce1&text_color=D3D3D3&bg_color=1c1c1c" width="70%" /></p>
 
