@@ -18,9 +18,8 @@ I enjoy working with *React*, *PHP* & *Laravel*.
 
 
 ### *Follow me around the web:*  🏃 
-<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BanerjeeProdipta&views&color=92cce1&style=flat-square"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=BanerjeeProdipta&views&color=92cce1&style=flat-square"/> </p>
 
 
 <a href="https://www.linkedin.com/in/banerjeeprodipta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
