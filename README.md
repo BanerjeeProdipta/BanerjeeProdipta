@@ -17,7 +17,10 @@ I enjoy working with *React*, *PHP* & *Laravel*.
 - ✨ Fun fact : I love dogs 🐶 and music 🎶
 
 
-### *Follow me around the web:*  🏃 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BanerjeeProdipta&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+### *Follow me around the web:*  🏃 
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BanerjeeProdipta&views&color=92cce1&style=flat-square"/> </p>
 
 
 <a href="https://www.linkedin.com/in/banerjeeprodipta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
