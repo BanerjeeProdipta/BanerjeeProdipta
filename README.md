@@ -2,7 +2,7 @@
 <img align='right' src='https://github.com/BanerjeeProdipta/BanerjeeProdipta/blob/master/prodipta.png' width='40%'>
 
 I'm a ***Software Engineer***  from Dhaka, Bangladesh. My interest is in ***Web Development***. I love to learn new skills.
-I enjoy working with *React* & *Laravel*.
+I enjoy working with *React* & currenty working + learning *web3*.
 
 
 ## Hello World 🌎:
