@@ -22,7 +22,6 @@ I enjoy working with *React* & currenty working + learning *web3*.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/banerjeeprodipta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/joyce_prodipta_banerjee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/Banerjee.Prodipta/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <img src="https://komarev.com/ghpvc/?username=BanerjeeProdipta&views&color=92cce1&style=flat-square"/> 
 </p>
