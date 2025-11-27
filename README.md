@@ -1,8 +1,9 @@
 # Hi, I'm Prodipta Banerjee 👩‍💻  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 <img align='right' src='https://github.com/BanerjeeProdipta/BanerjeeProdipta/blob/master/prodipta.png' width='40%'>
 
-I'm a ***Software Engineer***  from Dhaka, Bangladesh. My interest is in ***Web Development***. I love to learn new skills.
-I enjoy working with *React* & currenty working + learning *web3*.
+I'm a **Software Engineer** based in **Ontario, Canada**, with a passion for **Web Development** and a love for learning new skills.  
+
+As a **Front-End Engineer** with **5+ years of experience**, I build **high-performance, accessible, and responsive web applications** using modern technologies like **React.js, Next.js, and TypeScript**, delivering scalable solutions without compromising on **design quality or development speed**.
 
 
 ## Hello World 🌎:
@@ -22,7 +23,6 @@ I enjoy working with *React* & currenty working + learning *web3*.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/banerjeeprodipta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/Banerjee.Prodipta/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <img src="https://komarev.com/ghpvc/?username=BanerjeeProdipta&views&color=92cce1&style=flat-square"/> 
 </p>
 
