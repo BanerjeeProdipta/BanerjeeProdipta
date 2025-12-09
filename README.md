@@ -1,21 +1,48 @@
-# Hi, I'm Prodipta Banerjee 👩‍💻  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+# Hi, I'm Prodipta Banerjee 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <img align='right' src='https://github.com/BanerjeeProdipta/BanerjeeProdipta/blob/master/prodipta.png' width='40%'>
 
-I'm a **Software Engineer** based in **Ontario, Canada**, with a passion for **Web Development** and a love for learning new skills.  
+Front-End focused Software Engineer with 5+ years of experience helping startups build fast, accessible, and beautifully crafted web applications.  
+I specialize in **React, Next.js, TypeScript, UI engineering, performance optimization**, and everything that makes modern products feel smooth and delightful.
 
-As a **Front-End Engineer** with **5+ years of experience**, I build **high-performance, accessible, and responsive web applications** using modern technologies like **React.js, Next.js, and TypeScript**, delivering scalable solutions without compromising on **design quality or development speed**.
+💡 I build scalable front-end architecture, design pixel-perfect interfaces, and ship features quickly — without sacrificing code quality or long-term maintainability.
 
+🌍 Currently open to Front-End / UI Engineer roles in **Toronto, Ontario (GTA)** or **Remote**.
 
-## Hello World 🌎:
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='15%'/>
+---
 
-- 🌐 Find out more about me ⭐<a href="https://banerjee-prodipta.vercel.app/">My Website</a>⭐
+## 🚀 Tech Stack & Tools
 
-- 📫 Reach me : 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-ffffff?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:probanerjee17@gmail.com)
+**Frontend:** React • Next.js • TypeScript • JavaScript (ES6+) • Redux / Zustand • TailwindCSS • CSS3 • SCSS • HTML5  
+**Build & Tooling:** Vite • Webpack • Babel • Git • pnpm/yarn/npm  
+**Testing:** Jest • React Testing Library • Cypress  
+**Design / UI:** Figma • Framer Motion • Responsive/Adaptive UI • Component Libraries  
+**Backend (supporting):** Node.js • Express • REST APIs • MongoDB • PostgreSQL  
+**Others:** CI/CD • Performance Audits • Accessibility (a11y) • SEO fundamentals
 
-- 💁 Pronouns : She/Her
-- ✨ Fun fact : I love dogs 🐶 and music 🎶
+---
+
+## 📌 What I’m Currently Working On
+- Building UI components and reusable design systems  
+- Enhancing performance of large-scale React apps  
+- Exploring Next.js 14 App Router + Server Actions  
+- Contributing to open-source frontend tooling  
+
+---
+
+## 🎯 What I Bring to a Team
+- Clean, maintainable code with strong attention to detail  
+- Startup-friendly mindset — fast iterations + scalable architecture  
+- Strong UX intuition & ability to collaborate with designers  
+- Experience turning ambiguous ideas into polished features  
+- Customer-driven thinking and product empathy  
+
+---
+
+## 📫 Connect With Me
+
+- **Portfolio:** https://banerjee-prodipta.vercel.app  
+- **LinkedIn:** https://www.linkedin.com/in/prodiptabanerjee/  
+- **Email:** prodipta.banerjee010@gmail.com
 
 
 ### *Follow me around the web:*  🏃 
